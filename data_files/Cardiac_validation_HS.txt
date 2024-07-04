@@ -1,0 +1,5 @@
+#ImagePath	LabelPath
+/home/joutard/data/CardiacMR/mr_train/mr_train_1005_image.nii.gz	/home/joutard/data/CardiacMR/mr_train/mr_train_1005_label.nii.gz
+/home/joutard/data/CardiacMR/mr_train/mr_train_1014_image.nii.gz	/home/joutard/data/CardiacMR/mr_train/mr_train_1014_label.nii.gz
+/home/joutard/data/CardiacMR/mr_train/mr_train_1012_image.nii.gz	/home/joutard/data/CardiacMR/mr_train/mr_train_1012_label.nii.gz
+/home/joutard/data/CardiacMR/mr_train/mr_train_1010_image.nii.gz	/home/joutard/data/CardiacMR/mr_train/mr_train_1010_label.nii.gz

@@ -1,0 +1,11 @@
+#dataPath	labelPath
+0052_data.imf	0052_labels.imf
+0076_data.imf	0076_labels.imf
+0137_data.imf	0137_labels.imf
+0167_data.imf	0167_labels.imf
+0231_data.imf	0231_labels.imf
+0282_data.imf	0282_labels.imf
+0314_data.imf	0314_labels.imf
+0336_data.imf	0336_labels.imf
+0359_data.imf	0359_labels.imf
+0408_data.imf	0408_labels.imf
