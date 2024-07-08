@@ -1,5 +1,5 @@
 # HyperSpace
-Code for the MICCAI 2024 paper "[HyperSpace: Hypernetworks for spacing-adaptive image segmentation](arxiv link)"
+Code for the MICCAI 2024 paper "[HyperSpace: Hypernetworks for spacing-adaptive image segmentation](https://arxiv.org/abs/2407.03681)"
 
 # Overview
 
@@ -32,4 +32,13 @@ The repository is only composed of 5 files:
 
 ## Citation
 
+```
+@misc{2024hyperspace,
+title={HyperSpace: Hypernetworks for spacing-adaptive image segmentation}, 
+author={Samuel Joutard and Maximilian Pietsch and Raphael Prevost},
+year={2024},
+eprint={2407.03681},
+url={https://arxiv.org/abs/2407.03681}, 
+}
+```
 
